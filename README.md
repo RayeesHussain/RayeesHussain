@@ -49,5 +49,5 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/rayees-hussain-s-a-754338250/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/rayees-hussain-s-a-754338250/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rayees%20Hussain%20S%20A-blue?style=flat-square&logo=linkedin"></a>
 </p>
