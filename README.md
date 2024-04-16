@@ -6,6 +6,7 @@
 - 🎓 &nbsp; Studying Computer Science and Engineering at BMS Institute of Technology and Management.
 - 🌱 &nbsp; Learning more about Artificial Intelligence and Machine Learning, Systems Design and Full Stack Development.
 - ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles.
+---
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 💻 &nbsp;
@@ -44,8 +45,7 @@
 🗔 &nbsp;
 ![Figma](https://img.shields.io/badge/Figma-333333?logo=Figma)
 
-<br/>
-
+---
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
